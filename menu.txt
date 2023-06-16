@@ -1,0 +1,8 @@
+Nuoc,N1,Number1,13000,12 thang
+Nuoc,N2,Pepsi,13000,12 thang	
+Nuoc,N3,Cam ep,15000,3 thang
+Nuoc,N4,Tra dao,15000,3 thang
+Mon An,MA1,Bun cha,30000,Viet Nam
+Mon An,MA2,Pizza,50000,Italia
+Mon An,MA3,Shushi,250000,Nhat Ban
+Mon An,MA4,Banh Mi,17000,Viet Nam
